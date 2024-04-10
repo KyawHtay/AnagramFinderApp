@@ -1,7 +1,5 @@
 # AnagramFinderApp
 
-# AnagramFinderApp
-
 What are anagrams?
 
 Anagrams are words formed by rearranging the letters of a different word.
