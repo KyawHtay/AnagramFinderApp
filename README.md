@@ -48,7 +48,7 @@ On top of finding the largest set of anagrams,
 ### Single Responsibility Principle (SRP):
 
 This principle states that a class should have only one reason to change, meaning it should have only one responsibility or job. If a class has multiple responsibilities, changes to one may affect the others, leading to maintenance issues and making the class harder to understand.
-Example: In the context of the AnagramFinder, the AnagramSolver class should be responsible for solving anagrams and related tasks, such as counting letters and finding words with the most distinct characters. It should not be responsible for handling file I/O operations or user interface interactions. These concerns should be delegated to other classes.
+Example: In the context of the **AnagramFinder**, the **AnagramSolver** class should be responsible for solving anagrams and related tasks, such as counting letters and finding words with the most distinct characters. It should not be responsible for handling file I/O operations or user interface interactions. These concerns should be delegated to other classes.
 
 ### Open/Closed Principle (OCP):
 
