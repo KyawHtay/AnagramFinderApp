@@ -35,11 +35,11 @@ sapele
 "please", "asleep" and "sapele" are anagrams (3 occurrences) -> It should return this list
 
 
-On top of finding the largest set of anagrams, please write methods to find:
+On top of finding the largest set of anagrams, 
 
 - A count of words for each letter prefixed with that character from A-Z.
 
-- Find the word with the largest number of distinct characters.
+- It finds the word with the largest number of distinct characters.
 
 
 
